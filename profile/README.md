@@ -10,6 +10,7 @@
 | --- | --- | --- | --- |
 | 1주차 | 2026-10-31 | space-runner | [🔥출시 완료](https://korea-games.github.io/space-runner/) |
 | 2주차 | 2026-11-07 | nature-clicker | [🔥출시 완료](https://korea-games.github.io/nature-clicker/) |
+| 2주차 | 2026-11-07 | capsule-fighter | [🔥출시 완료](https://korea-games.github.io/capsule-fighter/) |
 | 3주차 | 2026-11-14 | 준비 중 | 🛠️ 제작 중 |
 | 4주차 | 2026-11-21 | - | ⏳ 예정 |
 | 5주차 | 2026-11-28 | - | ⏳ 예정 |
